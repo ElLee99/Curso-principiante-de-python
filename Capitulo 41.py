@@ -1,0 +1,20 @@
+#Capitulo 41
+#Johan Manuel García Zúñiga 19310416 6E1
+
+class Usuarios:
+    def __init__(self, nombre, edad):
+        self.nombre = nombre
+        self. edad = edad
+        
+    def muestra_datos(self):
+        print("El nombre de usuario es: " + self.nombre, self.edad)
+
+
+usuario1 = Usuarios("Enrique", 28)
+usuario1.muestra_datos()
+
+class Usuarios_premium(Usuarios):
+    pass
+
+usuario2 = Usuarios_premium("Elvira", 23)
+usuario2.muestra_datos()
