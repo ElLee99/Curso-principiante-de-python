@@ -1,4 +1,5 @@
 #Capitulo 28
+#Johan Manuel García Zúñiga 19310416 6E1
 
 x = 0
 while x <= 30:

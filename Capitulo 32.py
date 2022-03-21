@@ -1,4 +1,5 @@
 #Capitulo 32
+#Johan Manuel García Zúñiga 19310416 6E1
 
 teclado1 = {
     'Categoria': 'Teclados',
